@@ -1,0 +1,7 @@
+body
+{
+    background-image: linear-gradient(to left top, rgb(145, 2, 145), rgb(192, 21, 192), rgb(247, 106, 247), rgb(235, 99, 235), white);
+} 
+.history_div{
+    background: rgba(109, 98, 98, 0.877);border-radius: 10px;float: none;height: 50%;
+}
